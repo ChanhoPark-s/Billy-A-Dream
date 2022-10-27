@@ -5,4 +5,4 @@
 
 기술 스택 : AWS EC2, AWS RDS Oracle, Java, Spring, Jsp, Tomcat, Html, Css, Javascript, jQuery
 
-시연영상 : https://youtu.be/pJEr0ldINx4
+시연영상 : https://youtu.be/JL0fxZF3Tb0
