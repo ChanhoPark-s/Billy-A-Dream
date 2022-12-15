@@ -52,6 +52,7 @@
   
 - 접속한 IP를 확인하여 회원가입 당시 등록된 IP와 다를 시 휴대폰 번호 인증을 통한 로그인을 하도록 하였습니다.
 <br>
+  
 ### 4.2. 비밀번호 암호화
   <p align="center">
   <img src="https://user-images.githubusercontent.com/106065178/207795103-2fa3b5da-4615-4288-a59b-51cea4fc987e.png" width="400" height="50">
