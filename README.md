@@ -174,11 +174,11 @@
 
 ## 7. 그 외 트러블 슈팅
 <details>
-<summary>npm run dev 실행 오류</summary>
+<summary>git push/pull 시 한글 깨짐</summary>
 <div markdown="1">
 
-- Webpack-dev-server 버전을 3.0.0으로 다운그레이드로 해결
-- `$ npm install —save-dev webpack-dev-server@3.0.0`
+- Spring 설정에 UTF-8 설정이 안되어 있어서 한글이 깨지는 현상
+- <a href="https://chanho-park.tistory.com/entry/Spring-github-pushpull-%EC%8B%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%ED%98%84%EC%83%81">[&nbsp;해결방법&nbsp;]</a>
 
 </div>
 </details>
