@@ -2,7 +2,7 @@
 >개인간 렌탈 거래 플랫폼 <br>
 ><br>
 >## 프로젝트 자료
-><a href="https://youtu.be/JL0fxZF3Tb0" style="margin-top : 10px;"><img src="https://user-images.githubusercontent.com/106065178/207799552-27c7f9ec-3320-492a-b69d-23fe1783d32a.jpg" width="60" height="35"></a>
+><a href="https://youtu.be/JL0fxZF3Tb0" style="margin-top : 10px;"><img src="https://user-images.githubusercontent.com/106065178/207799552-27c7f9ec-3320-492a-b69d-23fe1783d32a.jpg" width="80" height="35"></a>
 
 </br>
 
