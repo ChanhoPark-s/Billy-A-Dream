@@ -178,38 +178,38 @@
 <div markdown="1">
 
 - Spring 설정에 UTF-8 설정이 안되어 있어서 한글이 깨지는 현상
-- <a href="https://chanho-park.tistory.com/entry/Spring-github-pushpull-%EC%8B%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%ED%98%84%EC%83%81">[&nbsp;해결방법&nbsp;]</a>
+- <a href="https://chanho-park.tistory.com/entry/Spring-github-pushpull-%EC%8B%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%ED%98%84%EC%83%81">[&nbsp;해결 방법&nbsp;]</a>
 
 </div>
 </details>
 
 <details>
-<summary>vue-devtools 크롬익스텐션 인식 오류 문제</summary>
+<summary>vue-devtools Github 사용 시 문제</summary>
 <div markdown="1">
   
-  - main.js 파일에 `Vue.config.devtools = true` 추가로 해결
-  - [https://github.com/vuejs/vue-devtools/issues/190](https://github.com/vuejs/vue-devtools/issues/190)
+  -<a href="https://github.com/vuejs/vue-devtools/issues/190](https://github.com/vuejs/vue-devtools/issues/190">[&nbsp;해결 방법&nbsp;]</a>
   
 </div>
 </details>
 
 <details>
-<summary>ElementUI input 박스에서 `v-on:keyup.enter="메소드명"`이 정상 작동 안하는 문제</summary>
+<summary>AWS 재배포 시 이미지 삭제 문제</summary>
 <div markdown="1">
   
-  - `v-on:keyup.enter.native=""` 와 같이 .native 추가로 해결
+  - 이미 업로드한 이미지들이 배포를 다시 하게 되면은 사라지는 현상이 발생
+  - <a href="https://diagnostic-raven-02c.notion.site/remove-a0d4d336e6344f16b06d22425135e023">[&nbsp;해결 방법&nbsp;]</a>
   
 </div>
 </details>
 
 <details>
-<summary> Post 목록 출력시에 Member 객체 출력 에러 </summary>
+<summary> MyBatis sql 부등호 인식 문제 </summary>
 <div markdown="1">
   
-  - 에러 메세지(500에러)
+  - XML 파일에 sql 문을 작성하게 되는데 < 부등호를 TAG로 인식하기 때문에 <br>
+  **"The content of elements must consist of well-formed character data or markup."** 라는 에러가 발생
     - No serializer found for class org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationConfig.SerializationFeature.FAIL_ON_EMPTY_BEANS)
-  - 해결
-    - Post 엔티티에 @ManyToOne 연관관계 매핑을 LAZY 옵션에서 기본(EAGER)옵션으로 수정
+ -  <a href="https://dlgkstjq623.tistory.com/389">[&nbsp;해결 방법&nbsp;]</a>
   
 </div>
 </details>
