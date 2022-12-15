@@ -119,6 +119,8 @@
 <br><a href="https://youtu.be/JL0fxZF3Tb0">[&nbsp;Youtube&nbsp;]</a><br><br>
 </p>
 
+
+
 ## 6. 핵심 트러블 슈팅
 ### 6.1. literal does not match format string [데이터 타입이 맞지 않다는 의미]
 - 모든 프로젝트를 마무리하고 로컬에서의 테스트를 문제없이 진행하고 AWS에 배포를 하여 테스트를 하는데 <br>
@@ -131,7 +133,7 @@
 <details>
 <summary><b>기존 코드</b></summary>
 <div markdown="1">
-
+~~~java
  <select id="GetAllReservationOnlyDates" resultType="reservation.model.ReservationBean">
 		select start_date,end_date
 		from reservation 
@@ -140,8 +142,8 @@
   
   <br>
   <insert id="InsertReservation">
-		insert into reservation values(reservation_seq.nextval,#{product_no},#{buyer_no},#{start_date},#{end_date},0,sysdate,'1',#{amount},null)
-	</insert>
+	insert into reservation values(reservation_seq.nextval,#{product_no},#{buyer_no},#{start_date},#{end_date},0,sysdate,'1',#{amount},null)
+  </insert>
 
 </div>
 </details>
@@ -158,12 +160,12 @@
 		select TO_CHAR(start_date, 'YYYY-MM-DD') as start_date, TO_CHAR(end_date, 'YYYY-MM-DD') as end_date
 		from reservation 
 		where product_no = #{pno}
-	</select>
-  
+  </select>
+ ~~~ 
   <br>
   <insert id="InsertReservation">
-		insert into reservation values(reservation_seq.nextval,#{product_no},#{buyer_no},to_date(#{start_date},'YY-MM-DD'),to_date(#{end_date},'YY-MM-DD'),0,sysdate,'1',#{amount},null)
-	</insert>
+	insert into reservation values(reservation_seq.nextval,#{product_no},#{buyer_no},to_date(#{start_date},'YY-MM-DD'),to_date(#{end_date},'YY-MM-DD'),0,sysdate,'1',#{amount},null)
+  </insert>
 ~~~
 
 </div>
