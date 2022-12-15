@@ -74,8 +74,18 @@
   </p>
   <br>
 
-- Twilio API 와 Naver Mail API를 활용하여 인증 체계를 구성하였습니다.
+- 카카오맵 API를 통한 사용자 편의 검색 기능 제공을 하였습니다.
+  
 
+### 4.5. 사용자 편의 지도 검색
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/106065178/207815703-37ceb3e3-afe4-4f77-add7-617eb4c2071b.png" width="500" height="400">
+  </p>
+  <br>
+
+- Json 과 Ajax를 통한 채팅을 제공하여 판매자와 구매자 사이의 편의성과 신뢰성을 주었습니다.
+  
+  
 ### 4.4. Service
 
 ![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow_service1.png)
