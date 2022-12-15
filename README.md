@@ -64,9 +64,10 @@
 
 ### 4.3. 휴대폰 & 이메일 인증
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/106065178/207797115-25ba4819-8617-477e-a81c-8a6c186fe43d.png" width="400" height="300">
+  <img src="https://user-images.githubusercontent.com/106065178/207797115-25ba4819-8617-477e-a81c-8a6c186fe43d.png" width="600" height="300">
   </p>
   <br>
+  
 - Twilio API 와 Naver Mail API를 활용하여 인증 체계를 구성하였습니다.
 
 
