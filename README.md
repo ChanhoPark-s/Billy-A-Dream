@@ -15,18 +15,13 @@
 
 ## 2. 사용 기술
   - Java 11
-  - Spring
+  - Spring, Spring Security
   - Gradle
-  - AWS EC2
-  - AWS RDS
+  - AWS EC2, AWS RDS
   - Oracle
   - Jsp
-  - Spring Security
   - Tomcat
-  - Html
-  - Css
-  - Javascript
-  - Jquery
+  - Html, Css, Javascript, Jquery
 
 </br>
 
@@ -119,6 +114,7 @@
  <p align="center"><img src="https://user-images.githubusercontent.com/106065178/207641919-4e8bb2a6-7fb6-44ea-8690-bd1c06a3ae3a.gif" width="600" height="300">
 <br><a href="https://youtu.be/JL0fxZF3Tb0">[&nbsp;Youtube&nbsp;]</a><br><br>
 </p>
+![WMS_Project 최종 발표 영상줄인거](https://user-images.githubusercontent.com/106065178/207814333-c68babc5-4cdf-4c8d-81fd-fc991bc431e0.gif)
 
 ## 6. 핵심 트러블 슈팅
 ### 6.1. 컨텐츠 필터와 페이징 처리 문제
