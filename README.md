@@ -77,9 +77,17 @@
 - 카카오맵 API를 통한 사용자 편의 검색 기능 제공을 하였습니다.
   
 
-### 4.5. 사용자 편의 지도 검색
+### 4.5. 채팅 기능
   <p align="center">
   <img src="https://user-images.githubusercontent.com/106065178/207815703-37ceb3e3-afe4-4f77-add7-617eb4c2071b.png" width="650" height="300">
+  </p>
+  <br>
+
+- Json 과 Ajax를 통한 채팅을 제공하여 판매자와 구매자 사이의 편의성과 신뢰성을 주었습니다.
+  
+ ### 4.6. 카카오 결제 API
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/106065178/207840399-a151a287-1cae-4b61-8aa2-075c4bb682b1.png" width="650" height="300">
   </p>
   <br>
 
