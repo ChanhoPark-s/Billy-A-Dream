@@ -79,7 +79,7 @@
 
 ### 4.5. 사용자 편의 지도 검색
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/106065178/207815703-37ceb3e3-afe4-4f77-add7-617eb4c2071b.png" width="500" height="400">
+  <img src="https://user-images.githubusercontent.com/106065178/207815703-37ceb3e3-afe4-4f77-add7-617eb4c2071b.png" width="650" height="400">
   </p>
   <br>
 
