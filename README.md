@@ -54,7 +54,10 @@
 - 접속한 IP를 확인하여 회원가입 당시 등록된 IP와 다를 시 휴대폰 번호 인증을 통한 로그인을 하도록 하였습니다.
 
 ### 4.2. 비밀번호 암호화
-![image](https://user-images.githubusercontent.com/106065178/207795103-2fa3b5da-4615-4288-a59b-51cea4fc987e.png)
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/106065178/207795103-2fa3b5da-4615-4288-a59b-51cea4fc987e.png" width="400" height="30">
+  </p>
+  <br>
 
 - **URL 정규식 체크** :pushpin: [코드 확인](https://github.com/Integerous/goQuality/blob/b587bbff4dce02e3bec4f4787151a9b6fa326319/frontend/src/components/PostInput.vue#L67)
   - Vue.js로 렌더링된 화면단에서, 사용자가 등록을 시도한 URL의 모양새를 정규식으로 확인합니다.
