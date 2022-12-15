@@ -3,6 +3,7 @@
 ><br>
 >## 프로젝트 자료
 ><a href="https://youtu.be/JL0fxZF3Tb0" style="margin-top : 10px;"><img src="https://user-images.githubusercontent.com/106065178/207799552-27c7f9ec-3320-492a-b69d-23fe1783d32a.jpg" width="80" height="35"></a>
+><a href="https://diagnostic-raven-02c.notion.site/63b7ecad4ab548c1be6a011a28947d81?v=f54f364770604efeaf4368640e1b8fe9" class="sbox" ><img class="profile" style="width: 65px;  margin-bottom: 3px; margin-left: 25px;" src="https://user-images.githubusercontent.com/106065178/207617352-af4e6185-95a8-449e-80f2-b17e711e7347.png"></a>
 
 </br>
 
