@@ -112,8 +112,13 @@
 
 </br>
 
-## 5. 핵심 트러블 슈팅
-### 5.1. 컨텐츠 필터와 페이징 처리 문제
+## 5. 시연 영상
+ <p align="center"><img src="https://user-images.githubusercontent.com/106065178/207641919-4e8bb2a6-7fb6-44ea-8690-bd1c06a3ae3a.gif" width="600" height="300">
+<br><a href="https://www.youtube.com/watch?v=0uTWjoxM3kQ&t=3s">[&nbsp;Youtube&nbsp;]</a><br><br>
+</p>
+
+## 6. 핵심 트러블 슈팅
+### 6.1. 컨텐츠 필터와 페이징 처리 문제
 - 저는 이 서비스가 페이스북이나 인스타그램 처럼 가볍게, 자주 사용되길 바라는 마음으로 개발했습니다.  
 때문에 페이징 처리도 무한 스크롤을 적용했습니다.
 
@@ -209,7 +214,7 @@ public Page<Post> findAllByTagName(String tagName, Pageable pageable) {
 
 </br>
 
-## 6. 그 외 트러블 슈팅
+## 7. 그 외 트러블 슈팅
 <details>
 <summary>npm run dev 실행 오류</summary>
 <div markdown="1">
@@ -402,5 +407,5 @@ public Page<Post> findAllByTagName(String tagName, Pageable pageable) {
     
 </br>
 
-## 6. 회고 / 느낀점
+## 8. 회고 / 느낀점
 >프로젝트 개발 회고 글: https://zuminternet.github.io/ZUM-Pilot-integer/
