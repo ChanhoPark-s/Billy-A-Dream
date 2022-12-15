@@ -97,8 +97,17 @@
   </p>
   <br>
 
-- 카카오 결제 API 를 통한 사용자 편의 시스템을 구현하였습니다.
+- 카카오 결제 API 를 통한 사용자 편의 시스템을 사용하였습니다.
   
+<br>
+  
+   ### 4.7. 카카오 결제 API
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/106065178/207845517-2305d2d9-e18e-4edd-927d-c2ffc45bc106.png" width="650" height="300">
+  </p>
+  <br>
+
+- 카카오톡 API 를 활용해 상담사와 빠른 상담을 할 수 있는 사용자 편의 시스템을 사용하였습니다.
 
 </div>
 </details>
