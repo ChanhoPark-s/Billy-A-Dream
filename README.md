@@ -31,7 +31,10 @@
 ![DB 테이블 구조](https://user-images.githubusercontent.com/106065178/207790738-20131029-2d6e-4dd8-95c7-ce60ef7710d9.png)
 
 ## 3.1 시퀀스 다이어그램
-![페이지별 기능 요약](https://user-images.githubusercontent.com/106065178/207792583-247a58e8-c9ce-48a5-9e4d-9c4d579299b9.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106065178/207792583-247a58e8-c9ce-48a5-9e4d-9c4d579299b9.png" width="500" height="700">
+  </p>
+  <br>
 
 
 ## 4. 핵심 기능
