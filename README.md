@@ -36,15 +36,16 @@
 
 ## 4. 핵심 기능
 이 서비스의 핵심 기능은 개인간 결제 및 채팅입니다.  
-사용자는 단지 컨텐츠의 카테고리를 선택하고, URL만 입력하면 끝입니다.  
-이 단순한 기능의 흐름을 보면, 서비스가 어떻게 동작하는지 알 수 있습니다.  
+사용자는 원하는 지역의 상품을 구매할 수 있고, 판매자와 채팅을 통해 원만한 거래를 할 수 있습니다.
+또한 여러 카카오API를 통한 이용과 보안서비스를 통해 사용자의 편의 및 신뢰를 추구하였습니다. 
 
 <details>
 <summary><b>핵심 기능 설명 펼치기</b></summary>
 <div markdown="1">
 
-### 4.1. 전체 흐름
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow1.png)
+### 4.1. IP확인
+![image](https://user-images.githubusercontent.com/106065178/207794240-128e7b49-869d-4589-93b3-aa310beab9b1.png)
+  -접속한 IP를 확인하여 회원가입 당시 등록된 IP와 다를 시 휴대폰 번호 인증을 통한 로그인을 하도록 하였습니다.
 
 ### 4.2. 사용자 요청
 ![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow_vue.png)
