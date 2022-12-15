@@ -45,7 +45,7 @@
 
 ### 4.1. IP확인
   <p align="center">
-  ![image](https://user-images.githubusercontent.com/106065178/207794240-128e7b49-869d-4589-93b3-aa310beab9b1.png)
+  <img src="https://user-images.githubusercontent.com/106065178/207794240-128e7b49-869d-4589-93b3-aa310beab9b1.png">
   </p>
   <br>
   -접속한 IP를 확인하여 회원가입 당시 등록된 IP와 다를 시 휴대폰 번호 인증을 통한 로그인을 하도록 하였습니다.
