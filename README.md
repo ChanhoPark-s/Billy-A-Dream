@@ -51,7 +51,7 @@
   <br>
   
 - 접속한 IP를 확인하여 회원가입 당시 등록된 IP와 다를 시 휴대폰 번호 인증을 통한 로그인을 하도록 하였습니다.
-
+<br>
 ### 4.2. 비밀번호 암호화
   <p align="center">
   <img src="https://user-images.githubusercontent.com/106065178/207795103-2fa3b5da-4615-4288-a59b-51cea4fc987e.png" width="400" height="50">
@@ -59,7 +59,8 @@
   <br>
 
 - Spring Security를 활용하여 BCryptPasswordEncoder 라는 암호화를 사용하여 비밀번호를 암호화 저장하였습니다.
-
+<br>
+  
 ### 4.3. 휴대폰 & 이메일 인증
   <p align="center">
   <img src="https://user-images.githubusercontent.com/106065178/207797115-25ba4819-8617-477e-a81c-8a6c186fe43d.png" width="700" height="300">
@@ -68,6 +69,7 @@
   
 - Twilio API 와 Naver Mail API를 활용하여 인증 체계를 구성하였습니다.
 
+  <br>
 ### 4.4. 사용자 편의 지도 검색
   <p align="center">
   <img src="https://user-images.githubusercontent.com/106065178/207798202-ab4f3936-397a-46c9-94f9-42c44a7e823d.png" width="500" height="400">
@@ -76,7 +78,7 @@
 
 - 카카오맵 API를 통한 사용자 편의 검색 기능 제공을 하였습니다.
   
-
+<br>
 ### 4.5. 채팅 기능
   <p align="center">
   <img src="https://user-images.githubusercontent.com/106065178/207815703-37ceb3e3-afe4-4f77-add7-617eb4c2071b.png" width="650" height="300">
@@ -84,16 +86,16 @@
   <br>
 
 - Json 과 Ajax를 통한 채팅을 제공하여 판매자와 구매자 사이의 편의성과 신뢰성을 주었습니다.
-  
+<br>  
  ### 4.6. 카카오 결제 API
   <p align="center">
   <img src="https://user-images.githubusercontent.com/106065178/207840399-a151a287-1cae-4b61-8aa2-075c4bb682b1.png" width="650" height="300">
   </p>
   <br>
 
-- Json 과 Ajax를 통한 채팅을 제공하여 판매자와 구매자 사이의 편의성과 신뢰성을 주었습니다.
+- 카카오 결제 API 를 통한 사용자 편의 시스템을 구현하였습니다.
   
-  
+ <br>
 ### 4.4. Service
 
 ![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow_service1.png)
