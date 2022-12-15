@@ -103,7 +103,7 @@
   
    ### 4.7. 카카오 결제 API
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/106065178/207845517-2305d2d9-e18e-4edd-927d-c2ffc45bc106.png" width="350" height="300">
+  <img src="https://user-images.githubusercontent.com/106065178/207845517-2305d2d9-e18e-4edd-927d-c2ffc45bc106.png" width="300" height="300">
   </p>
   <br>
 
