@@ -139,7 +139,7 @@
 		select start_date,end_date
 		from reservation 
 		where product_no = #{pno}
-	</select>
+ </select>
   
   <br>
   <insert id="InsertReservation">
@@ -155,16 +155,13 @@
 <div markdown="1">
 
 ~~~java
-/**
- * 게시물 필터 (Tag Name)
- */
+
   <select id="GetAllReservationOnlyDates" resultType="reservation.model.ReservationBean">
 		select TO_CHAR(start_date, 'YYYY-MM-DD') as start_date, TO_CHAR(end_date, 'YYYY-MM-DD') as end_date
 		from reservation 
 		where product_no = #{pno}
   </select>
 
-  <br>
   <insert id="InsertReservation">
 	insert into reservation values(reservation_seq.nextval,#{product_no},#{buyer_no},to_date(#{start_date},'YY-MM-DD'),to_date(#{end_date},'YY-MM-DD'),0,sysdate,'1',#{amount},null)
   </insert>
