@@ -184,10 +184,10 @@
 </details>
 
 <details>
-<summary>vue-devtools Github 사용 시 문제</summary>
+<summary>Github 사용 시 문제</summary>
 <div markdown="1">
   
-  -<a href="https://github.com/vuejs/vue-devtools/issues/190](https://github.com/vuejs/vue-devtools/issues/190">[&nbsp;해결 방법&nbsp;]</a>
+  - <a href="https://github.com/vuejs/vue-devtools/issues/190](https://github.com/vuejs/vue-devtools/issues/190">[&nbsp;해결 방법&nbsp;]</a>
   
 </div>
 </details>
@@ -208,31 +208,22 @@
   
   - XML 파일에 sql 문을 작성하게 되는데 < 부등호를 TAG로 인식하기 때문에 <br>
   **"The content of elements must consist of well-formed character data or markup."** 라는 에러가 발생
-    - No serializer found for class org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationConfig.SerializationFeature.FAIL_ON_EMPTY_BEANS)
  -  <a href="https://dlgkstjq623.tistory.com/389">[&nbsp;해결 방법&nbsp;]</a>
   
 </div>
 </details>
     
 <details>
-<summary> 프로젝트를 git init으로 생성 후 발생하는 npm run dev/build 오류 문제 </summary>
+<summary> Controller에서 RequestParam 사용시 주의할 점 </summary>
 <div markdown="1">
   
-  ```jsx
-    $ npm run dev
-    npm ERR! path C:\Users\integer\IdeaProjects\pilot\package.json
-    npm ERR! code ENOENT
-    npm ERR! errno -4058
-    npm ERR! syscall open
-    npm ERR! enoent ENOENT: no such file or directory, open 'C:\Users\integer\IdeaProjects\pilot\package.json'
-    npm ERR! enoent This is related to npm not being able to find a file.
-    npm ERR! enoent
-
-    npm ERR! A complete log of this run can be found in:
-    npm ERR!     C:\Users\integer\AppData\Roaming\npm-cache\_logs\2019-02-25T01_23_19_131Z-debug.log
-  ```
-  
-  - 단순히 npm run dev/build 명령을 입력한 경로가 문제였다.
+ - Controller에서 RequestParam을 사용하여 변수를 받을 때 받아오는 변수가 존재하지 않으면 에러 발생
+ 
+ - 받아오는 변수가 없을 때도 Controller가 작동되게 해야하기 때문에 아래와 같은 코드를 입력해주면 됩니다.
+~~~java
+	required = false  
+~~~
+	
    
 </div>
 </details>    
