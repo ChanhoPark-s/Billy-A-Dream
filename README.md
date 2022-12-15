@@ -145,7 +145,8 @@
   <insert id="InsertReservation">
 	insert into reservation values(reservation_seq.nextval,#{product_no},#{buyer_no},#{start_date},#{end_date},0,sysdate,'1',#{amount},null)
   </insert>
-
+~~~
+	
 </div>
 </details>
 
@@ -162,7 +163,7 @@
 		from reservation 
 		where product_no = #{pno}
   </select>
- ~~~ 
+
   <br>
   <insert id="InsertReservation">
 	insert into reservation values(reservation_seq.nextval,#{product_no},#{buyer_no},to_date(#{start_date},'YY-MM-DD'),to_date(#{end_date},'YY-MM-DD'),0,sysdate,'1',#{amount},null)
