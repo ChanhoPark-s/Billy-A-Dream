@@ -32,7 +32,7 @@
 
 ## 3.1 시퀀스 다이어그램
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106065178/207792583-247a58e8-c9ce-48a5-9e4d-9c4d579299b9.png" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/106065178/207792583-247a58e8-c9ce-48a5-9e4d-9c4d579299b9.png" width="300" height="300">
   </p>
   <br>
 
