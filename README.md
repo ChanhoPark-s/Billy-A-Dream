@@ -114,7 +114,7 @@
 
 ## 5. 시연 영상
  <p align="center"><img src="https://user-images.githubusercontent.com/106065178/207641919-4e8bb2a6-7fb6-44ea-8690-bd1c06a3ae3a.gif" width="600" height="300">
-<br><a href="https://www.youtube.com/watch?v=0uTWjoxM3kQ&t=3s">[&nbsp;Youtube&nbsp;]</a><br><br>
+<br><a href="https://youtu.be/JL0fxZF3Tb0">[&nbsp;Youtube&nbsp;]</a><br><br>
 </p>
 
 ## 6. 핵심 트러블 슈팅
